@@ -67,7 +67,7 @@ public class Menu extends State{
 		info.createParagraph(
 				"WELCOME TO BREAKOUT!\n"
 				+ "THIS GAME WAS CREATED IN LESS THAN 48 HOURS AS A PROGRAMMING EXERCISE\n"
-				+ "THE SOURCE CAN BE FOUND HERE: WWW.");
+				+ "THE SOURCE CAN BE FOUND HERE: GITHUB.COM/MONKEY22MM/BREAKOUTLWJGL3");
 	}
 
 	public void update() {
